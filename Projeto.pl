@@ -1,6 +1,6 @@
 s([X,1],[X1,1]) :-	X < 5 , X1 is  X + 1, outro(X1,1).
 s([X,1],[X1,1]) :-  X > 1 , X1 is  X - 1, outro(X1,1).
-
+ 
 s([X,10],[X1,10]) :-	X < 5 , X1 is  X + 1, outro(X1,10).
 s([X,10],[X1,10]) :-  X > 1 , X1 is  X - 1, outro(X1,10).
 
