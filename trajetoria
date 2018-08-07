@@ -7,7 +7,7 @@ ligado(f,k).
 ligado(b,e). 
 ligado(g,l). 
 ligado(b,f). 
-ligado(g,m). 
+ligado(g,m).  
 ligado(c,g). 
 ligado(k,n). 
 ligado(d,h). 
